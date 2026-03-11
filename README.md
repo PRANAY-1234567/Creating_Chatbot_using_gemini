@@ -27,6 +27,7 @@ Responsive window resizing
 
 Python 3
 
+
 CustomTkinter
 
 Requests
