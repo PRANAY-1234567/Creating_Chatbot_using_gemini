@@ -118,7 +118,6 @@ Final year / mini project
 Resume & portfolio project
 
 👤 Author
-
 Pranay Vishwanath Jadhao
 Final Year – Electronics & Telecommunication
 Aspiring Software Developer
